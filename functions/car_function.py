@@ -1,4 +1,4 @@
-from PycharmProjects.Python_Classes.classes import Car
+from classes import Car
 
 
 def car():

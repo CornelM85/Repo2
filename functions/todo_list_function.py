@@ -1,5 +1,4 @@
-# The path may be different in your case
-from PycharmProjects.Python_Classes.classes import Appointment
+from classes import Appointment
 
 
 def todo_list():

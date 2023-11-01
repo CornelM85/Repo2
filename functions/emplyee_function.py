@@ -1,4 +1,4 @@
-from PycharmProjects.Python_Classes.classes import Employee
+from classes import Employee
 
 
 def employee():

@@ -1,4 +1,4 @@
-from PycharmProjects.Python_Classes.classes import Invoice
+from classes import Invoice
 
 
 def invoice():
